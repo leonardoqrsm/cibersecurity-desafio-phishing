@@ -14,7 +14,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Web Templates ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- Opção usada para clonagem: twitter (http://www.twitter.com)
+- Opção usada para clonagem: ```twitter``` (http://www.twitter.com)
 
 ### Resutados
 
