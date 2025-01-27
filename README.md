@@ -16,6 +16,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - Opção usada para clonagem: ```twitter``` (http://www.twitter.com)
 
-### Resutados
+### Resutado
 
-![Alt text](./passwd.png "Optional title")
+![projeto](https://github.com/user-attachments/assets/f8472b5a-1465-4c0f-9ffc-49077619cf42)
